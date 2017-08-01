@@ -1,0 +1,5 @@
+/Users/longtoo/Perforce/Support/Git/UnityCollisionManager/bin/Debug/CollisionManager.dll.mdb
+/Users/longtoo/Perforce/Support/Git/UnityCollisionManager/bin/Debug/CollisionManager.dll
+/Users/longtoo/Perforce/Support/Git/UnityCollisionManager/obj/Debug/CollisionManager.dll
+/Users/longtoo/Perforce/Support/Git/UnityCollisionManager/obj/Debug/CollisionManager.dll.mdb
+/Users/longtoo/Perforce/Support/Git/UnityCollisionManager/bin/Debug/UnityEngine.dll
