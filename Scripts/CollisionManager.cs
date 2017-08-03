@@ -151,7 +151,7 @@ namespace LNB.CollisionManager
             for (int i = 0; i < count; i++)
             {
 
-                LAddGroupCollider(groupId, cols[count]);
+                LAddGroupCollider(groupId, cols[i]);
 
             }
         }
@@ -196,7 +196,7 @@ namespace LNB.CollisionManager
             for (int i = 0; i < count; i++)
             {
 
-                LRemoveGroupCollider(groupId, cols[count]);
+                LRemoveGroupCollider(groupId, cols[i]);
 
             }
         }
